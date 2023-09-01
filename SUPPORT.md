@@ -37,7 +37,7 @@ El dispositiu on es vol integrar el sistema de pagament de canut.io. La màquina
 > En cas que no existeixi una màquina de venta física per realitzar el pagament, s'entendrà que estem fabrican un datafon.
 
 > Arduino:  
-Responsable de gestionar la comunicació entre la maquina de ventes i l'app smartphone de canut.io. El llenguatge de desenvolupament que utilitza es el C++. Cal afegir llibreries i adaptar la resposta als requeriments de la màquina de ventes.
+Responsable de gestionar la comunicació entre la maquina de ventes i l'app smartphone de canut.io. El llenguatge de desenvolupament que utilitza es el C++. Cal afegir llibreries i adaptar la resposta als requeriments de la màquina de venta.
 
 > PN532:  
 El xip que entableix la comunicació NFC amb el smartphone. S'ha de soldar a la board d'Arduino i col·locar adequadament a prop de la superficie de la maquina de ventes per ser accesible desde el smartphone.
